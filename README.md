@@ -1,7 +1,17 @@
 # Index
 An Index of MDM Archives 
 
+The Method for Design Materialization (MDM) is a research method leveraging design documentation, reflective journaling, grounded theory analysis, and game analysis for transparent and stronger game design research.
 
+For a repo to be considered ready for analysis, it needs to have:
+1. A reflective journal
+2. Playable builds of the game on various stages.
+3. Reflective git commits
+
+These three components surface the tacit knowledge and design decisions embedded in a research-creation project, 
+
+
+## Ready for Analysis 
 
 | Repository                                                                                                                                      | Maker  | Journal Entries | Commits | Ready to Analyze |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------ | --------------- | ------- | ---------------- |
@@ -27,3 +37,10 @@ An Index of MDM Archives
 |                                                                                                                                                 |        |                 |         |                  |
 |                                                                                                                                                 |        |                 |         |                  |
 |                                                                                                                                                 |        |                 |         |                  |
+
+
+## Active under development and In Progress 
+
+| Maker        | Status       | Repo                                                                                                                                              | Valid? | Journal Entries |
+| ------------ | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | --------------- |
+| Adrian       | Just Started | [ostrakinda](https://codeberg.org/thgie/ostrakinda)<br>([Journal](https://codeberg.org/thgie/ostrakinda/src/branch/documentation/journal.md))     |        |                 |
