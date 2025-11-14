@@ -15,7 +15,6 @@ These three components surface the tacit knowledge and design decisions embedded
 
 | Repository                                                                                                                                      | Maker  | Journal Entries | Commits | Ready to Analyze |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------ | --------------- | ------- | ---------------- |
-| [Racers](https://github.com/pippinbarr/racers)                                                                                                  | Pippin |                 |         |                  |
 | [IIAF On your phone](https://github.com/pippinbarr/it-is-as-if-you-were-on-your-phone)                                                          | Pippin |                 |         |                  |
 | [IIAF Making Love](https://github.com/pippinbarr/itisasifyouweremakinglove)                                                                     | Pippin |                 |         |                  |
 | [IIAF Doing Work](https://github.com/pippinbarr/itisasifyouweredoingwork)                                                                       | Pippin |                 |         |                  |
@@ -44,3 +43,4 @@ These three components surface the tacit knowledge and design decisions embedded
 | Maker        | Status       | Repo                                                                                                                                              | Valid? | Journal Entries |
 | ------------ | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | --------------- |
 | Adrian       | Just Started | [ostrakinda](https://codeberg.org/thgie/ostrakinda)<br>([Journal](https://codeberg.org/thgie/ostrakinda/src/branch/documentation/journal.md))     |        |                 |
+| Pippin       | Depressing   | [Racers](https://github.com/pippinbarr/racers)                                                                                                    |        |                 |
